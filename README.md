@@ -2,7 +2,7 @@
 
 # Cookenu
 
-Cookenu is a recipes website.
+Recipes website.
 
 ## Usage
 
