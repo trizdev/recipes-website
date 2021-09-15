@@ -1,14 +1,13 @@
-# recipes-website 
+# :cook::shallow_pan_of_food: Recipes Website {Cookenu} 
 
-# Cookenu
+Recipes website using Cookenu API.
 
-Recipes website.
-
-## Usage
+## :fried_egg: Usage :fried_egg:
 
 ```
 www. xxxx xxxx xx .sh
 ```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## :bowl_with_spoon: Project Status :bowl_with_spoon:
+``` 
+Starting 
+``` 
